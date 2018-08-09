@@ -92,25 +92,19 @@
   <project path="build/kati" name="build_kati" remote="pixel" />
   <project path="bootable/recovery" name="bootable_recovery" remote="pixel" />
   <project path="development" name="development" remote="pixel" />
-  <project path="platform_testing" name="platform_testing" remote="pixel" />
   <project path="vendor/aosp" name="vendor_aosp" remote="pixel" />
   <project path="vendor/pixelstyle" name="vendor_pixelstyle" remote="pixel" />
 
   <!-- Hardware repos -->
-  <project path="hardware/interfaces" name="hardware_interfaces" remote="pixel" />
   <project path="hardware/libhardware" name="hardware_libhardware" remote="pixel" />
-  <project path="hardware/libhardware_legacy" name="hardware_libhardware_legacy" remote="pixel" />
 
   <!-- Packages repos -->
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="pixel" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="pixel" />
   <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="pixel" />
   <project path="packages/apps/CellBroadcastReceiver" name="packages_apps_CellBroadcastReceiver" remote="pixel" />
-  <project path="packages/apps/EmergencyInfo" name="packages_apps_EmergencyInfo" remote="pixel" />
   <project path="packages/apps/FMRadio" name="packages_apps_FMRadio" remote="pixel" />
-  <project path="packages/apps/PackageInstaller" name="packages_apps_PackageInstaller" remote="pixel" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="pixel" />
-  <project path="packages/apps/Stk" name="packages_apps_Stk" remote="pixel" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="pixel" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixel" />
@@ -124,10 +118,7 @@
   <project path="system/bt" name="system_bt" remote="pixel" />
   <project path="system/core" name="system_core" remote="pixel" />
   <project path="system/extras" name="system_extras" remote="pixel" />
-  <project path="system/hwservicemanager" name="system_hwservicemanager" remote="pixel" />
-  <project path="system/nfc" name="system_nfc" remote="pixel" />
   <project path="system/security" name="system_security" remote="pixel" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="pixel" />
   <project path="system/vold" name="system_vold" remote="pixel" />
 
 </manifest>

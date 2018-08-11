@@ -63,6 +63,7 @@
   <project path="external/fuse" name="external_fuse" remote="pixel" />
   <project path="external/libnfc-nxp" name="external_libnfc-nxp" remote="pixel" />
   <project path="external/ntfs-3g" name="external_ntfs-3g" remote="pixel" />
+  <project path="external/perfetto" name="external_perfetto" remote="pixel" />
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="pixel" />

@@ -24,9 +24,6 @@
           revision="pie" />
 
   <!-- CodeAurora additions -->
-  <project path="external/ant-wireless/ant_native" name="external_ant-wireless_ant_native" remote="pixel" />
-  <project path="external/ant-wireless/ant_service" name="external_ant-wireless_ant_service" remote="pixel" />
-  <project path="external/ant-wireless/antradio-library" name="external_ant-wireless_antradio-library" remote="pixel" />
   <project path="external/brctl" name="external_brctl" remote="pixel" />
   <project path="external/connectivity" name="external_connectivity" remote="pixel" />
   <project path="external/ebtables" name="external_ebtables" remote="pixel" />
@@ -47,8 +44,6 @@
   <project path="hardware/qcom/media" name="hardware_qcom_media" remote="pixel" />
   <project path="hardware/qcom/media-caf/msm8998" name="hardware_qcom_media" revision="pie-caf-8998" remote="pixel" />
   <project path="hardware/qcom/power" name="hardware_qcom_power" remote="pixel" />
-  <project path="hardware/qcom/thermal" name="hardware_qcom_thermal" remote="pixel" />
-  <project path="hardware/qcom/vr" name="hardware_qcom_vr" remote="pixel" />
   <project path="hardware/qcom/wlan" name="hardware_qcom_wlan" remote="pixel" />
   <project path="hardware/qcom/wlan-caf" name="hardware_qcom_wlan" revision="pie-caf" remote="pixel" />
   <project path="hardware/ril" name="hardware_ril" remote="pixel" />
